@@ -46,3 +46,9 @@ NumPy array is a powerful N-dimensional array object and its use in linear algeb
 * Using an array is faster than a list.
 * A list cannot directly handle a mathematical operations, while array can.
 * An array consumes less memory than a list.
+
+
+
+## Video Tutorial (NumPy Playlist) : 
+
+[![NumPy_tutorial](	https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLjVLYmrlmjGfgBKkIFBkMNGG7qyRfo00W)
