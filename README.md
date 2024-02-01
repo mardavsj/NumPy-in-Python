@@ -49,6 +49,8 @@ NumPy array is a powerful N-dimensional array object and its use in linear algeb
 
 
 
-## Video Tutorial (NumPy Playlist) : 
+## Video (NumPy Playlist) & Blog Tutorial : 
 
-[![NumPy_tutorial](	https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLjVLYmrlmjGfgBKkIFBkMNGG7qyRfo00W)
+[![Video_tutorial](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLjVLYmrlmjGfgBKkIFBkMNGG7qyRfo00W)
+
+[![Blog_tutorial](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/edureka/python-introduction-to-numpy-numpy-tutorial-4ac06c717971)
