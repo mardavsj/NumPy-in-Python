@@ -6,7 +6,7 @@ NumPy stands for Numerical Python. It is a Python library used for working with 
 
 NumPy was created by Travis Oliphant in 2005. It is an open source project and you can use it for free. 
 
-[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&color=darkblue)](https://github.com/numpy/numpy)
+[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&color=parrotgreen)](https://github.com/numpy/numpy)
 
 
 ## Pre-requisites :
