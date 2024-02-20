@@ -1,7 +1,7 @@
 <div align="right">
 
   <a href="">[![General badge](https://img.shields.io/badge/documentation-red.svg)](https://numpy.org/doc/stable/)</a>
-  <a href="">![license](https://img.shields.io/github/license/mardavsj/NumPy-in-Python.svg)</a>
+  <a href="">[![license](https://img.shields.io/github/license/mardavsj/NumPy-in-Python.svg)](https://github.com/mardavsj/NumPy-in-Python/blob/main/LICENSE)</a>
 
 </div>
 
